@@ -1,0 +1,3 @@
+delay and data array are the same
+
+with higher speed, it can only get little data
